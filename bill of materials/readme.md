@@ -12,6 +12,6 @@
 |         7| Wielen | zelf gemaakt   | nieuw |    /       |   2x   |    /     |
 |         8| Breadbord | arduino leonardo kit   | nieuw |    /       |   1x   |    /     |
 |         9| JumperWires | arduino leonardo kit   | nieuw |    /       |   16x   |    /     |
-|        10|  |    | nieuw |    /       |   x   |    /     |
-|        11|  |    | nieuw |    /       |   x   |    /     |
-|        12|  |    | nieuw |    /       |   x   |    /     |
+|        10| Batterij houder | arduino leonardo kit   | nieuw |    /       |   1x   |    /     |
+|        11| ... | ...   | nieuw |    /       |   ..x   |    /     |
+|        12| ... | ...   | nieuw |    /       |   ..x   |    /     |
