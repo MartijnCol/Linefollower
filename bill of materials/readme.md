@@ -13,5 +13,5 @@
 |         8| Breadbord | arduino leonardo kit   | nieuw |    /       |   1x   |    /     |
 |         9| JumperWires | arduino leonardo kit   | nieuw |    /       |   16x   |    /     |
 |        10| Batterij houder | arduino leonardo kit   | nieuw |    /       |   1x   |    /     |
-|        11| Wiel | ...   | nieuw |    1,85       |   2x   |     3,7    |
+|        11| Wiel | Wiel - 3mm D-as - 43mm   | nieuw |    1,85       |   2x   |     3,7    |
 |        12| ... | ...   | nieuw |    /       |   ..x   |    /     |
