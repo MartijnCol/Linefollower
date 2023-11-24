@@ -7,7 +7,7 @@ als je de switch aan de achterkant van de auto naar rechts zet zal de voeding aa
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+
 Ga naar bluetooth op je device en zoek HC-05 en verbindt hiermee. vraagt deze om een code zal deze "0000" of "1234" zijn.
 
 #### commando's
