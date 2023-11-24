@@ -22,10 +22,10 @@ Wanneer alles gemonteerd is kan je doorgaan naar stap 4.
 
 Het Uploaden van je volledige code. 
 
-a. verbind je arduino bekabelt met je pc.                                                                                                                                                                                       
-b. upload je code via de upload knop in het Arduino IDE programma.                                                                                                                                                              
-c. wanneer deze zonder errors geupload is kan je de kabel verxijderen uit je pc en arduino.                                                                                                                                      
-d. Test de wagen via je bluetooth communicatie.
+#a. verbind je arduino bekabelt met je pc.                                                                                                                                                                                       
+#b. upload je code via de upload knop in het Arduino IDE programma.                                                                                                                                                              
+#c. wanneer deze zonder errors geupload is kan je de kabel verxijderen uit je pc en arduino.                                                                                                                                      
+#d. Test de wagen via je bluetooth communicatie.
 
 
 ### stap 5 
