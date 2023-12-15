@@ -9,8 +9,8 @@
 |         4| Motor   | mini DC N20 6V 500rpm micro transmissiemotor     |  nieuw  |    6,54        |   2x   |   13,08        |
 |         5| H-brug   | DRV8833 dual motor driver            |  nieuw  |     3,265         |  3x    |    9,795     |
 |         6| Bluetooth module   | HC-05 master-slave 6pin integrated bluetooth module           |  nieuw  |   4,73           |  1x    |    4,73     |
-|         8| Breadbord | arduino leonardo kit   | nieuw |    /       |   1x   |    /     |
-|         9| JumperWires | arduino leonardo kit   | nieuw |    /       |   16x   |    /     |
-|        10| Batterij houder | arduino leonardo kit   | nieuw |    /       |   1x   |    /     |
+|         8| Breadbord | arduino leonardo kit   | recup |    /       |   1x   |    /     |
+|         9| JumperWires | arduino leonardo kit   | recup |    /       |   16x   |    /     |
+|        10| Batterij houder |18650 lithium-ion houder    | nieuw |    1,95       |   1x   |    1,95     |
 |        11| Wiel | Wiel - 3mm D-as - 43mm   | nieuw |    1,85       |   2x   |     3,7    |
 |        12| Kogelwiel | voorwiel wagen   | nieuw |    1,62       |   1x   |    1,62     |
